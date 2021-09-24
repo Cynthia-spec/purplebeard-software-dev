@@ -1,1 +1,2 @@
-Hi everyone, i am learning git command. Getting there gradually. 
+Hi everyone, i am learning git command. Getting there gradually.
+We can only hope to get better
