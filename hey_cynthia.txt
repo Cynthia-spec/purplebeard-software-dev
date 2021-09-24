@@ -1,0 +1,11 @@
+hey Cynthia!
+
+Great job!  
+
+Let's get some pushing and pulling going.  You'll need to PULL this new
+file down to your computer.  When you're ready, you'll need to PUSH your
+next round of changes back up to the repo.
+
+Let's do this a few times until you're comfortable with it!
+
+Adam
